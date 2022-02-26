@@ -25,6 +25,15 @@
     border-width: 2px;
     margin-bottom: 35px;
 }
+.status{
+    border-radius: 3px;
+    background-blend-mode:overlay;
+    opacity: 80%;
+    border-color: rgb(200, 116, 240);
+    border-style: solid;
+    border-width: 2px;
+    margin-bottom: 35px;
+}
 .titel{
     font-size:50px;
     margin-top: 20px;
