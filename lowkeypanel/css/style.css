@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+
+*{
+    position: relative;
+    font-family: 'Work Sans';
+    color: white;
+    margin: 0px;
+}
+#particle {
+    background-color: #0e0e0e;
+    position:fixed;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    z-index:0; 
+  }
+.installblock{
+    background-color: #2a2929;
+    border-radius: 3px;
+    background-blend-mode:overlay;
+    opacity: 80%;
+    border-color: rgb(200, 116, 240);
+    border-style: solid;
+    border-width: 2px;
+}
+.titel{
+    font-size:50px;
+    margin-top: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: rgb(137, 40, 228);
+}
+
+.tostitel{
+    font-size:50px; 
+    margin-top: 5px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: rgb(137, 40, 228);
+}
+.term{
+    font-weight: lighter;
+    margin: 0px;
+}
+tag{
+    color: brown;
+}
+.texttje{
+    font-size: 16px;
+    margin: 0px;
+    font-weight: bold;
+}
+
+#lowkeyimg{
+    border-style: groove;
+    border-width: 2.9px;
+    border-radius: 2px;
+    border-top-color: blueviolet;
+    border-left-color: rgb(179, 122, 233);
+    border-bottom-color: rgb(200, 154, 243);
+    border-right-color: rgb(155, 62, 243);
+    margin-top: 5px;    
+    width: 660px;
+    margin-bottom: 16px;
+    
+}
+.titelfeature{
+    font-size: 35px;
+    margin: 0px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: rgb(137, 40, 228);
+    margin-bottom: 0px;
+
+}
+.featuretitel{
+    font-size: 25px;
+    margin: 0px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.features{
+    margin-top: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 3px;
+    border-top-color: rgb(222, 188, 255);
+    border-left-color: rgb(186, 115, 251);
+    border-bottom-color: rgb(157, 65, 243);
+    border-right-color: rgb(132, 0, 255);
+}
