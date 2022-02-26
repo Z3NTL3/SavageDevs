@@ -25,14 +25,23 @@
     border-width: 2px;
     margin-bottom: 35px;
 }
-.status{
-    border-radius: 3px;
-    background-blend-mode:overlay;
-    opacity: 80%;
-    border-color: rgb(200, 116, 240);
-    border-style: solid;
+.tutotitel{
+    font-size: 45px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+    
+}
+#tuto1{
+    border-style: groove;
+    border-color: blueviolet;
     border-width: 2px;
-    margin-bottom: 35px;
+    border-radius: 3px;
+    border-top-color: blueviolet;
+    border-left-color: rgb(179, 122, 233);
+    border-bottom-color: rgb(200, 154, 243);
+    border-right-color: rgb(155, 62, 243);
+    width: 400px;
 }
 .titel{
     font-size:50px;
@@ -100,4 +109,9 @@ tag{
     border-left-color: rgb(186, 115, 251);
     border-bottom-color: rgb(157, 65, 243);
     border-right-color: rgb(132, 0, 255);
+    font-weight: lighter;
+    
+}
+#install{
+    margin-top: 45px;
 }
