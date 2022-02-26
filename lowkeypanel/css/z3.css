@@ -25,6 +25,13 @@
     border-width: 2px;
     margin-bottom: 35px;
 }
+.achtergrondtutorial{
+    border-radius: 3px;
+    background-blend-mode:overlay;
+    font-weight: lighter;
+    margin-bottom: 35px;
+    font-style:initial;
+}
 .tutotitel{
     font-size: 45px;
     font-weight: bold;
