@@ -75,6 +75,7 @@ async def commands():
                 cmdExec(cmd='pip3 install scapy')
                 cmdExec(cmd='pip3 install cloudscraper')
                 cmdExec(cmd='pip3 install cfscrape')
+                cmdExec(cmd='npm install randomstring')
                 msges(br='Scraped & installed \'\033[32msuccessfully\'\033[0m')
                 msges(br='Now follow \'\033[32mfurther installation instructions on savagedevs.net\'\033[0m')
                 break
