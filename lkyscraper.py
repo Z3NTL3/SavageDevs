@@ -1,5 +1,4 @@
 import asyncio, subprocess, sys
-from sre_constants import SUCCESS
 
 logo = """
 \033[38;5;117m╦{reset}  \033[38;5;75m╦{reset}\033[38;5;117m╔═╦ ╦  ╔═╗╔═╗╦═╗╔═╗╔═╗╔═╗╦═╗
