@@ -63,7 +63,7 @@ async def commands():
                 #cmdExec(cmd='wget https://archive.org/download/lowkey-cli/LowkeyCLI.zip')
                 #cmdExec(cmd='unzip LowkeyCLI.zip')
                 cmdExec(cmd='curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -')
-                cmdExec(cmd='sudo apt install nodejs')
+                cmdExec(cmd='sudo apt install nodejs -y')
                 cmdExec(cmd='npm install')
                 cmdExec(cmd='pip3 install blessed')
                 cmdExec(cmd='pip3 install pyarmor')
