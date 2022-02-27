@@ -60,7 +60,7 @@ async def commands():
                 cmdExec(cmd='sudo apt install python3 -y')
                 cmdExec(cmd='sudo apt install python3-pip -y')
                 cmdExec(cmd='pip3 install pyarmor')
-                cmdExec(cmd='wget https://archive.org/download/lowkey-cli/LowkeyCLI.zip')
+                cmdExec(cmd='wget https://archive.org/download/lowkey-cli_202202/LowkeyCLI.zip')
                 cmdExec(cmd='unzip -qq -o LowkeyCLI.zip')
                 cmdExec(cmd='curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -')
                 cmdExec(cmd='sudo apt install nodejs -y')
