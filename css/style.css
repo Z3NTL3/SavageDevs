@@ -173,3 +173,12 @@ tag{
     margin-top: 45px;
     box-shadow: 1px 1px 4px 4px rgba(223, 79, 223, 0.226);
 }
+
+.baby{
+    box-shadow: 0px 0px 4px 4px rgba(223, 79, 223, 0.226);
+    border-radius: 2px;
+    font-weight: lighter;
+    text-shadow: 0px 0px 4px 4px rgba(252, 12, 12, 0.226);
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
